@@ -1,0 +1,4 @@
+interface:
+  display_name: "会话工作摘要"
+  short_description: "将当前会话整理为可交接的工作记录"
+  default_prompt: "Use $diary-zt-summary to propose a work-record summary for this conversation."
