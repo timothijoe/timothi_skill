@@ -1,0 +1,4 @@
+interface:
+  display_name: "会话日记"
+  short_description: "保存完整会话或追加新增内容"
+  default_prompt: "Use $diary-zt to save this conversation as a diary entry."
